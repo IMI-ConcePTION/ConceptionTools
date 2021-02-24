@@ -12,6 +12,6 @@ LazyData: true
 Imports: 
     CreateFlowChart
 Exports: 
-    CreateFlowChart
+    CreateFlowChart::CreateFlowChart
 Remotes:
     IMI-ConcePTION/CreateFlowChart
