@@ -6,3 +6,6 @@ dir.create("~/wrapper_package_test")
 
 packrat::init("~/wrapper_package_test")
 
+library(devtools)
+library(ConceptionTools)
+
