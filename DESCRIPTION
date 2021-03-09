@@ -1,11 +1,10 @@
 Package: ConceptionTools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: ConcePTION Tools
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Dan Thayer
+Maintainer: Dan Thayer <daniel.s.thayer@gmail.com>
+Description: This is a wrapper to all R packages used by the ConcePTIOn project
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
