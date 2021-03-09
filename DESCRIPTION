@@ -10,4 +10,4 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports: CreateFlowChart
-Remotes: IMI-ConcePTION/CreateFlowChart
+Remotes: github::IMI-ConcePTION/CreateFlowChart
