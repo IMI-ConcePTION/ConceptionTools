@@ -12,4 +12,4 @@ LazyData: true
 Imports: 
     CreateFlowChart
 Remotes:
-    IMI-ConcePTION/CreateFlowChart
+    IMI-ConcePTION/CreateFlowChart@main
