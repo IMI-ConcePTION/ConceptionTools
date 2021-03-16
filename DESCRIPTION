@@ -8,5 +8,9 @@ Description: This is a wrapper to all R packages used by the ConcePTIOn project
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Imports: CreateFlowChart
-Remotes: github::IMI-ConcePTION/CreateFlowChart
+Imports: 
+  CreateFlowChart, 
+  CreateConceptSetDatasets
+Remotes: 
+  github::IMI-ConcePTION/CreateFlowChart,
+  github::ARS-toscana/CreateConceptSetDatasets@development

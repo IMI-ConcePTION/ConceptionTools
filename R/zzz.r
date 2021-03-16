@@ -1,4 +1,5 @@
 .onLoad = function(libname,pkgname) {
-  library(CreateFlowChart)
-  print("Loaded CreateFlowChart package")
+  library(CreateFlowChart);
+  library(CreateConceptSetDatasets);
+  print("Loaded packages: CreateFlowChart, CreateConceptSetDatasets");
 }
