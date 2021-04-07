@@ -10,11 +10,13 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
   CreateFlowChart, 
-  CreateConceptSetDatasets
-  ApplyComponentStrategy
-  CreateSpells
+  CreateConceptSetDatasets,
+  ApplyComponentStrategy,
+  CreateSpells,
+  CountPersonTime
 Remotes: 
   github::IMI-ConcePTION/CreateFlowChart,
   github::ARS-toscana/CreateConceptSetDatasets@development
   github::ARS-toscana/ApplyComponentStrategy
-  github::ARS-toscana/CreateSpells 
+  github::ARS-toscana/CreateSpells
+  github::IMI-ConcePTION/CountPersonTime

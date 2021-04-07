@@ -1,5 +1,9 @@
 .onLoad = function(libname,pkgname) {
   library(CreateFlowChart);
   library(CreateConceptSetDatasets);
-  print("Loaded packages: CreateFlowChart, CreateConceptSetDatasets, ApplyComponentStrategy, CreateSpells");
+  library(ApplyComponentStrategy);
+  library(CreateSpells);
+  library(CountPersonTime);
+  print("Loaded packages: CreateFlowChart, CreateConceptSetDatasets, ApplyComponentStrategy,
+        CreateSpells, CountPersonTime");
 }
