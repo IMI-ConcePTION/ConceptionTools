@@ -11,6 +11,8 @@ LazyData: true
 Imports: 
   CreateFlowChart, 
   CreateConceptSetDatasets
+  ApplyComponentStrategy
 Remotes: 
   github::IMI-ConcePTION/CreateFlowChart,
   github::ARS-toscana/CreateConceptSetDatasets@development
+  github::ARS-toscana/ApplyComponentStrategy
