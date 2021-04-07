@@ -12,7 +12,9 @@ Imports:
   CreateFlowChart, 
   CreateConceptSetDatasets
   ApplyComponentStrategy
+  CreateSpells
 Remotes: 
   github::IMI-ConcePTION/CreateFlowChart,
   github::ARS-toscana/CreateConceptSetDatasets@development
   github::ARS-toscana/ApplyComponentStrategy
+  github::ARS-toscana/CreateSpells 
