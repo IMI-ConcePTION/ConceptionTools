@@ -20,5 +20,6 @@ The repositories of the packages gathered in this wrapper are the following
    - [ApplyComponentStrategy](https://github.com/ARS-toscana/ApplyComponentStrategy): this function takes as input a dataset where component algorithms have been assigned, and the instructions to build composite algorithms based on them. It produces a dataset where the composites have been calculated, and a dataset where the overlap of selected pairs of algorithms is computed
 
 - **packages to produce analytic datasets** 
-
+- 
+   - [CreateFlowChart](https://github.com/IMI-ConcePTION/CreateFlowChart): this function applies exclusion criteria to a dataset of persons and produces the study population, as well as a dataset of counts of the impact of each exclusion criterion.
    - [CountPersonTime](https://github.com/IMI-ConcePTION/CountPersonTime): this function splits the person time of each person, discards person time that is outside of the study period, and labels the remaining period with calendar years (or months or days) according to (possibly time-dependent) categorical variables; moreover, it computes person time per each of the events of interest, by applying censoring after the first occurrence of the event, and indicates whether an event is observed; finally, it counts events; the putput can be individual or aggregated.
